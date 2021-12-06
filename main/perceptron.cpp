@@ -1,4 +1,4 @@
-// Author: PK
+// Author: premkamal | PK | lovelotus
 // Learnt from https://www.linkedin.com/learning/training-neural-networks-in-c-plus-plus
 
 #include <iostream>
