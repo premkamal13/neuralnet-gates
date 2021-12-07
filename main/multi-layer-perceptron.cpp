@@ -142,7 +142,7 @@ int main()
     
     MultiLayerPerceptron mlp = MultiLayerPerceptron({2, 2, 1});
     // neutron weights of NAND (= - AND) , OR, AND gates
-    mlp.set_weights({{{-10, -10, 15},{15, 15, 10}}, {{10, 10, -15}}});
+    mlp.set_weights({{{-10, -10, 15},{15, 15, -10}}, {{10, 10, -15}}});
     
     cout << "\nHardcoded MultiLayer Perceptron weights:" << endl;
     mlp.print_weights();
