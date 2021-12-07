@@ -1,0 +1,68 @@
+A Logic Gates Perceptron 
+
+AND Gate results!!
+0 0 = 3.05902e-07
+0 1 = 0.00669285
+1 0 = 0.00669285
+1 1 = 0.993307
+
+OR Gate results!!
+0 0 = 4.53979e-05
+0 1 = 0.993307
+1 0 = 0.993307
+1 1 = 1
+
+Hardcoded MultiLayer Perceptron weights:
+3
+Layer 2Neuron 0: -10  -10  15  
+Layer 2Neuron 1: 15  15  -10  
+
+Layer 3Neuron 0: 10  10  -15  
+
+
+
+XOR Gate results!!
+0 0 = 0.00669585
+0 1 = 0.992356
+1 0 = 0.992356
+1 1 = 0.00715281
+
+
+Testing a Trained XOR
+Training neural network as an XOR gate...
+mse minimized after 2000 iterations to 0.265388
+mse minimized after 2000 iterations to 0.262792
+mse minimized after 2000 iterations to 0.260153
+mse minimized after 2000 iterations to 0.251244
+mse minimized after 2000 iterations to 0.225615
+mse minimized after 2000 iterations to 0.174486
+mse minimized after 2000 iterations to 0.0957341
+mse minimized after 2000 iterations to 0.0430686
+mse minimized after 2000 iterations to 0.0234007
+mse minimized after 2000 iterations to 0.0151039
+mse minimized after 2000 iterations to 0.0108498
+mse minimized after 2000 iterations to 0.00834423
+mse minimized after 2000 iterations to 0.00672097
+mse minimized after 2000 iterations to 0.0055954
+mse minimized after 2000 iterations to 0.0047746
+mse minimized after 2000 iterations to 0.00415246
+mse minimized after 2000 iterations to 0.00366629
+mse minimized after 2000 iterations to 0.00327691
+mse minimized after 2000 iterations to 0.00295865
+mse minimized after 2000 iterations to 0.00269408
+
+
+ Trained weights (Compared to hard-coded weights):
+
+3
+Layer 2Neuron 0: 3.98965  3.98231  -6.11896  
+Layer 2Neuron 1: 5.66077  5.6495  -2.39618  
+
+Layer 3Neuron 0: -8.20234  7.65021  -3.50227  
+
+
+XOR Gate results!!
+0 0 = 0.0530625
+0 1 = 0.952449
+1 0 = 0.95233
+1 1 = 0.0500284
