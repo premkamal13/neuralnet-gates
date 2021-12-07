@@ -1,0 +1,54 @@
+Training neural network as a segment display recognition engine
+mse minimized after 3000 iterations to 0.206184
+mse minimized after 3000 iterations to 0.060681
+mse minimized after 3000 iterations to 0.021965
+mse minimized after 3000 iterations to 0.008154
+mse minimized after 3000 iterations to 0.0043179
+mse minimized after 3000 iterations to 0.00283751
+mse minimized after 3000 iterations to 0.00208639
+mse minimized after 3000 iterations to 0.00163925
+mse minimized after 3000 iterations to 0.00134483
+mse minimized after 3000 iterations to 0.0011372
+mse minimized after 3000 iterations to 0.000983353
+mse minimized after 3000 iterations to 0.000865016
+mse minimized after 3000 iterations to 0.000771309
+mse minimized after 3000 iterations to 0.000695355
+mse minimized after 3000 iterations to 0.000632602
+mse minimized after 3000 iterations to 0.000579924
+mse minimized after 3000 iterations to 0.000535102
+mse minimized after 3000 iterations to 0.00049652
+mse minimized after 3000 iterations to 0.000462976
+mse minimized after 3000 iterations to 0.000433554
+mse minimized after 3000 iterations to 0.000407547
+mse minimized after 3000 iterations to 0.0003844
+mse minimized after 3000 iterations to 0.000363671
+mse minimized after 3000 iterations to 0.000345004
+mse minimized after 3000 iterations to 0.000328109
+mse minimized after 3000 iterations to 0.000312748
+mse minimized after 3000 iterations to 0.000298724
+mse minimized after 3000 iterations to 0.000285872
+mse minimized after 3000 iterations to 0.000274051
+mse minimized after 3000 iterations to 0.000263144
+
+
+ Successfully trained:
+
+3
+Layer 2Neuron 0: 5.31248  -4.24905  -0.00920676  -1.58246  0.0312225  -5.39397  2.10553  1.45096  
+Layer 2Neuron 1: 0.879234  1.99895  -1.31752  0.0683831  1.45467  -4.2305  -3.22274  2.13538  
+Layer 2Neuron 2: 2.45648  -0.229655  3.06315  1.6077  -6.56118  -0.480935  -3.56427  0.657847  
+Layer 2Neuron 3: 4.46099  -3.17141  -0.181941  -1.12761  3.42846  0.622475  -4.69976  0.846528  
+Layer 2Neuron 4: -1.41056  -1.65809  -1.50391  -0.556098  0.749168  3.86122  4.24313  -1.19467  
+Layer 2Neuron 5: -3.0438  1.2584  1.54975  -4.64205  -0.935683  0.025379  -1.45128  2.43133  
+Layer 2Neuron 6: -2.81611  5.29587  -2.29538  0.853195  1.26884  0.575632  1.52581  -0.609582  
+
+Layer 3Neuron 0: -6.30546  1.4668  -0.234231  6.04747  -3.89363  -2.5821  -0.845657  -2.02301  
+Layer 3Neuron 1: -4.76824  2.37358  0.708475  -4.14387  -5.49089  2.6666  -0.132957  -1.31802  
+Layer 3Neuron 2: 2.13599  5.16645  -7.03899  -2.14071  -1.3505  -1.42444  0.226423  -2.15347  
+Layer 3Neuron 3: 4.29773  0.402009  2.64687  -6.59376  -4.65658  -3.67756  -0.450743  -2.51419  
+Layer 3Neuron 4: -2.81722  -3.4231  -3.06472  -4.62931  2.18137  5.2014  -1.24368  -1.37199  
+Layer 3Neuron 5: 1.47098  -3.21482  5.72343  -1.22167  0.497603  -1.3796  -7.18837  -3.07808  
+Layer 3Neuron 6: 1.84807  -2.0464  -5.81075  4.90905  0.0343372  -1.0918  -4.62437  -1.75226  
+Layer 3Neuron 7: 3.1315  1.17406  0.118748  3.21731  -5.73998  2.24398  -4.59876  -3.54789  
+Layer 3Neuron 8: -5.19584  -2.97639  -7.26595  0.160992  1.72912  -5.36414  3.87943  -1.26837  
+Layer 3Neuron 9: -4.74735  -3.95027  4.60457  -5.02704  0.74996  -5.3986  1.72127  -2.7064  
