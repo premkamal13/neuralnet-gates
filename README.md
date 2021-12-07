@@ -1,7 +1,7 @@
 # neuralnet-gates
 Using single and multi-layered perceptrons to implement logic operations and then create a automatically learning neural network that back-propagates the errors and learns to improve itself over time
 
-Stages of the Training Neural network:
+Stages of training the Neural network:
 
 1. Feed a sample to the network
 2. Calculate Mean Standard Error
