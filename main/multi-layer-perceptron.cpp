@@ -148,7 +148,7 @@ int main()
     mlp.print_weights();
     
     cout << "\nXOR Gate results!!" << endl;
-    cout << "0 0 = " << mlp.run({0, 0})[0] << endl; // close to 1
+    cout << "0 0 = " << mlp.run({0, 0})[0] << endl; // close to 0
     cout << "0 1 = " << mlp.run({0, 1})[0] << endl; // close to 1
     cout << "1 0 = " << mlp.run({1, 0})[0] << endl; // close to 1
     cout << "1 1 = " << mlp.run({1, 1})[0] << endl; // close to 0
